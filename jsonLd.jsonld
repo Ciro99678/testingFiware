@@ -1,4 +1,3 @@
-
 {"@context": {"0": "https://uri.fiware.org/ns/data-models#0", 
 "1": "https://uri.fiware.org/ns/data-models#1", 
 "2": "https://uri.fiware.org/ns/data-models#2", 
@@ -1518,5 +1517,3 @@
 "yearly": "https://uri.fiware.org/ns/data-models#yearly", 
 "zen": "https://uri.fiware.org/ns/data-models#zen", 
 "zoneCode": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/zoneCode"}}
-jsonLd.json
-Visualizzazione di jsonLd.json.
